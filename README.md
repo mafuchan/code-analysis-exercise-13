@@ -19,16 +19,16 @@ function (firstName, lastName, age){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input               | Output           |
+| -----               |------            |
+|  Matt, Crecraft, 42 | Matt Crecraft 42 | 
+|  Anna, Crecraft, 39 | Anna Crecraft 39 | 
+| Daniel, Crecraft, 10| Daniel Crecraft 10 | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>The function takes the input of firstName, lastName, and age and the output of 'person' returns the full name and age.</td>
   </tr>
 </table>
 
