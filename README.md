@@ -22,9 +22,9 @@ function (firstName, lastName, age){
 
 | Input               | Output           |
 | -----               |------            |
-|  "Matt", "Crecraft", 42 | console.log(matt.firstName, matt.lastName, matt.age) Matt Crecraft 42 | 
-|  "Anna", "Crecraft", 39 | console.log(anna.firstName, anna.lastName, anna.age) Anna Crecraft 39 | 
-| "Daniel", "Crecraft", 10| console.log(daniel.firstName, daniel.lastName, daniel.age) Daniel Crecraft 10 | 
+|  "Matt", "Crecraft", 42 | { firstName: "Matt", lastName: "Crecraft", age: 42 } | 
+|  "Anna", "Crecraft", 39 | { firstName: "Anna", lastName: "Crecraft", age: 39 } | 
+| "Daniel", "Crecraft", 10| { firstName: "Daniel", lastName: "Crecraft", age: 10 } | 
 
 <table>
   <tr>
