@@ -17,13 +17,14 @@ function (firstName, lastName, age){
 
   return person
 }
+
 ```
 
 | Input               | Output           |
 | -----               |------            |
-|  Matt, Crecraft, 42 | Matt Crecraft 42 | 
-|  Anna, Crecraft, 39 | Anna Crecraft 39 | 
-| Daniel, Crecraft, 10| Daniel Crecraft 10 | 
+|  "Matt", "Crecraft", 42 | console.log(matt.firstName, matt.lastName, matt.age) Matt Crecraft 42 | 
+|  "Anna", "Crecraft", 39 | console.log(anna.firstName, anna.lastName, anna.age) Anna Crecraft 39 | 
+| "Daniel", "Crecraft", 10| console.log(daniel.firstName, daniel.lastName, daniel.age) Daniel Crecraft 10 | 
 
 <table>
   <tr>
